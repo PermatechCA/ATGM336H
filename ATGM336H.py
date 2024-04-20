@@ -1,7 +1,8 @@
 # ATGM336H.py
 
 """
-This is a MicroPython library for the ATGM336H GPS module. It provides functionality to:
+This is a MicroPython library for the ATGM336H GPS module developed by Permatech. 
+It provides functionality to:
 - Initialize the GPS module with specified UART pins and baud rate.
 - Read specific types of NMEA sentences from the GPS module.
 - Get the current GPS time, velocity, location (latitude and longitude), number of connected satellites, and signal quality.

@@ -36,8 +36,9 @@ MicroPython Code Example
 Here’s a quick example of how to get the current location:
 
 latitude, longitude = gps.gps_location()
+
 print(f"Current location: Latitude {latitude}, Longitude {longitude}")
-AI-generated code. Review and use carefully. More info on FAQ.
+
 
 
 
